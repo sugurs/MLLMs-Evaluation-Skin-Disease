@@ -1,1 +1,1 @@
-The evaluation framework used for the paper entitled "Evaluate the real-world performance of multimodal large language models for diagnosing skin diseases: a retrospective observational study"
+The evaluation framework used for the paper entitled "Real-world evidence on multimodal large language models as diagnostic tools of skin diseases: a global multi-regional, retrospective observational study"
